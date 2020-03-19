@@ -1,6 +1,6 @@
 # Stop powering ICE
 
-![notechforice](/notechfornice.png)
+![notechforice](/notechforice.png)
 
 Dear Microsoft Co-workers,
 
