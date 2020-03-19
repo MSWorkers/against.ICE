@@ -1,5 +1,7 @@
 # Stop powering ICE
 
+![notechforice](/notechfornice.png)
+
 Dear Microsoft Co-workers,
 
 As most of us work from the comforts of our homes, US Immigration and Customs Enforcement (ICE) agents are taking advantage of this health crisis and actively breaking public health orders to arrest immigrants. With the coronavirus now declared a pandemic, immigrants and other marginalized people are especially vulnerable. Yet in this crisis of public health, ICE continues to detain immigrants in unsanitary and enclosed spaces, putting those immigrants at risk of being infected with the coronavirus. 
